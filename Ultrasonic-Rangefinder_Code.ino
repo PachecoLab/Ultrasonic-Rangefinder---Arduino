@@ -1,5 +1,5 @@
 
-int inches = 0;                  //Examble of global variable
+int inches = 0;                  //Exaple of global variable
 
 int cm = 0;
 
